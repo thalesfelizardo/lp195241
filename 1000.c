@@ -1,4 +1,4 @@
-* --------------------------------------------------------------------------
+/* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Linguagem   : C
 Plataforma  : https://judge.beecrowd.com/pt/search
