@@ -1,8 +1,8 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : THALES FELIZARDO MAIA
 Linguagem   : C
-Plataforma  : https://judge.beecrowd.com/pt/search
-Exercício   : 2757
+Problema    : https://judge.beecrowd.com/pt/problems/view/2757
 Data        : 09/04/2026
 Objetivo    : Ler e imprimir numeros inteiros na tela.
 Aprendizado : Foi aprendido usar espaçamentos ao usar o comando printf.
