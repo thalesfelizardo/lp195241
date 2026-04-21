@@ -1,8 +1,8 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : THALES FELIZARDO MAIA
 Linguagem   : C
-Plataforma  : https://judge.beecrowd.com/pt/search
-Exercício   : 2758
+Problema    : https://judge.beecrowd.com/pt/problems/view/2758
 Data        : 09/04/2026
 Objetivo    : Ler e imprimir numeros com pontos flutuantes.
 Aprendizado : Foi aprendido manipular a quantidade de casas depois
