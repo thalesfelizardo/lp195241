@@ -1,8 +1,8 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : THALES FELIZARDO MAIA
 Linguagem   : C
-Plataforma  : https://judge.beecrowd.com/pt/search
-Exercício   : NNNN
+Problema    : https://judge.beecrowd.com/pt/problems/view/1013
 Data        : 07/04/2026
 Objetivo    : Ler 3 números e imprimir o maior na tela
 Aprendizado : Comando scanf e uso do if e else.
