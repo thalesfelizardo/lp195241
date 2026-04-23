@@ -10,7 +10,7 @@ O VALOR ARMAZENADO EM DETERMINADA POSICAO.
 -------------------------------------------------------------------------- */
 
 #include <stdio.h>
-#define VET 4
+#define VET 100
 
 int main()
 {
